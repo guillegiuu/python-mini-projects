@@ -9,6 +9,7 @@ Estos proyectos están organizados por nivel de dificultad para reflejar mi prog
 ## 🧭 Navegación
 
 🏠 Volver al repositorio principal:  
+
 👉 https://github.com/guillegiuu/python-mini-projects
 
 ---
@@ -16,6 +17,7 @@ Estos proyectos están organizados por nivel de dificultad para reflejar mi prog
 ## 🧭 Learning Roadmap
 
 📚 Seguimiento completo de mi aprendizaje en Computer Science:
+
 👉 https://github.com/guillegiuu/from-zero-to-software-engineer
 
 ---
