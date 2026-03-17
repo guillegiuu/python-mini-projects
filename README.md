@@ -13,6 +13,14 @@ Estos proyectos están organizados por nivel de dificultad para reflejar mi prog
 
 ---
 
+## 🧭 Learning Roadmap
+
+📚 Seguimiento completo de mi aprendizaje en Computer Science:
+
+👉 https://github.com/guillegiuu/from-zero-to-software-engineer
+
+---
+
 ## 🟢 Easy
 
 Proyectos enfocados en fundamentos de programación.
