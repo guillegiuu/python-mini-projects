@@ -1,65 +1,75 @@
-# 🐍 Python Mini Projects
+# 📁 Python Mini Projects
 
-Colección de mini proyectos desarrollados en Python durante mi aprendizaje en Codecademy.
+Colección de proyectos desarrollados durante mi aprendizaje en Python (Codecademy path).
 
----
-
-## 📌 Sobre este repositorio
-
-Este repositorio contiene proyectos prácticos enfocados en reforzar conceptos fundamentales de Python como:
-
-* Variables
-* Strings
-* Operadores
-* Control de flujo
-* Lógica de programación
+Estos proyectos están organizados por nivel de dificultad para reflejar mi progreso.
 
 ---
 
-## 🚀 Proyectos incluidos
+## 🧭 Navegación
 
-### 🔤 Block Letters
+🏠 Volver al repositorio principal:  
+👉 https://github.com/guillegiuu/python-mini-projects
 
+---
+
+## 🟢 Easy
+
+Proyectos enfocados en fundamentos de programación.
+
+### 🔹 Block Letters
 Generador de letras en formato ASCII.
 
-* Uso de `print()`
-* Strings multilínea
-* Formateo de texto
+- Uso de `print()`
+- Strings multilínea
+- Formateo de texto
 
 ---
 
-### 🧾 Loveseats Receipts
-
+### 🔹 LoveSeats Receipts
 Simulación de un sistema de recibos con cálculo de impuestos.
 
-* Variables
-* Operaciones matemáticas
-* Concatenación de strings
-* Formato de salida
+- Variables
+- Operaciones matemáticas
+- Concatenación de strings
+- Formato de salida
+
+---
+
+## 🟡 Medium
+
+Proyectos con lógica más compleja y uso de estructuras.
+
+_(Próximamente...)_
+
+---
+
+## 🔴 Hard
+
+Proyectos orientados a algoritmos y resolución de problemas más avanzados.
+
+_(Próximamente...)_
 
 ---
 
 ## 🧠 Objetivo
 
-Aplicar conceptos básicos de Python en proyectos simples pero prácticos, construyendo una base sólida para proyectos más complejos.
+Aplicar conceptos de Python en proyectos prácticos y escalables, construyendo una base sólida para niveles más avanzados.
 
 ---
 
-## 🛠️ Tecnologías
+## 🚀 Próximos proyectos
 
-* Python 3
-
----
-
-## 📈 Próximos proyectos
-
-* Magic 8 Ball 🎱
-* Sal's Shipping 🚚
+- Magic 8 Ball 🎱  
+- Sal’s Shipping 🚚  
 
 ---
 
-## 👨‍💻 Autor
+## 📌 Notas
 
-**Guille Giusso**
+- Este repositorio forma parte de mi proceso de aprendizaje continuo.
+- Los proyectos irán evolucionando en complejidad con el tiempo.
 
 ---
+
+⭐ Progreso constante > perfección inmediata
