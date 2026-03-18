@@ -1,6 +1,5 @@
 # 🧾 Receipts for Lovely Loveseats
 # Descripción y precio de cada producto
-# Curso: Codecademy Python
 
 # ========================
 # 📦 CATÁLOGO DE PRODUCTOS
