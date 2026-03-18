@@ -1,5 +1,5 @@
 # Magic 8-Ball 🎱
-# Proyecto de Control Flow (Codecademy)
+# Proyecto de Control Flow
 
 # Simula una bola mágica que responde preguntas de forma aleatoria
 
