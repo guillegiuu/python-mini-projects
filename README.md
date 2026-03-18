@@ -63,6 +63,19 @@ Organización de materias y calificaciones usando listas.
 - Métodos (`append()`, `remove()`)
 - Manipulación de datos
 
+### 🍕 Len's Slice
+
+Análisis de precios y toppings de pizzas utilizando listas.
+
+- Listas
+- `len()`
+- `count()`
+- Ordenamiento (`sort()`)
+- Indexación
+- Slicing (`[:3]`)
+- Métodos (`pop()`, `insert()`)
+- Manipulación de datos
+
 ---
 
 ## 🟡 Medium
