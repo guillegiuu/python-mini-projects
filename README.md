@@ -84,7 +84,16 @@ Análisis de precios y toppings de pizzas utilizando listas.
 
 Proyectos con lógica más compleja y uso de estructuras.
 
-_(Próximamente...)_
+### 💈 Carly's Clippers
+
+Análisis de precios y servicios utilizando loops y listas.
+
+- Loops (`for`)
+- Listas
+- `len()`
+- List comprehension
+- Cálculo de promedio
+- Filtrado de datos
 
 ---
 
