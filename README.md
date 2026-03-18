@@ -62,6 +62,8 @@ Organización de materias y calificaciones usando listas.
 - Indexación
 - Métodos (`append()`, `remove()`)
 - Manipulación de datos
+  
+---
 
 ### 🍕 Len's Slice
 
