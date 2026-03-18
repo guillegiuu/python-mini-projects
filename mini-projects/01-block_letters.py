@@ -1,6 +1,5 @@
 # ================================
 # Proyecto: Block Letters
-# Curso: Codecademy Python
 # Descripción: Generador de letras en ASCII
 # ================================
 
