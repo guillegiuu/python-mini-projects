@@ -1,5 +1,6 @@
 # =========================
-# CARLY'S CLIPPERS PROJECT
+# Proyecto: Carly's Clippers
+# Tema: Loops, listas y manipulación de datos
 # =========================
 
 # Lista de cortes de pelo disponibles
