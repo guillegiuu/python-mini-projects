@@ -1,10 +1,6 @@
-# Proyecto de Python: Receipts for Lovely Loveseat
-# =========================================
 # 🧾 Receipts for Lovely Loveseats
 # Descripción y precio de cada producto
 # Curso: Codecademy Python
-# Parte 3
-# =========================================
 
 # ========================
 # 📦 CATÁLOGO DE PRODUCTOS
