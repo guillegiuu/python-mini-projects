@@ -46,12 +46,22 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 ---
 
 ### 🔮 Magic 8-Ball
-
 Simulación de una bola mágica que responde preguntas usando control flow.
 
 - Condicionales (`if / elif / else`)
 - Números aleatorios (`random`)
 - Lógica de decisiones
+
+---
+
+### 📘 Gradebook
+Organización de materias y calificaciones usando listas.
+
+- Listas
+- Listas bidimensionales
+- Indexación
+- Métodos (`append()`, `remove()`)
+- Manipulación de datos
 
 ---
 
