@@ -93,3 +93,19 @@ else:
 
     # 📌 Mostramos la respuesta final
     print("Magic 8-Ball's answer: " + answer)
+
+# Posibles respuestas incluyen:
+# - Yes - definitely
+# - Ask again later
+# - Outlook not so good
+# - Very doubtful
+    
+# =========================================
+# Ejemplo de output (resultado aleatorio)
+# =========================================
+#
+# Guille asks: Will I finish Codecademy?
+# Magic 8-Ball's answer: Yes - definitely
+#
+# Nota:
+# La respuesta es aleatoria, por lo que puede variar en cada ejecución.
