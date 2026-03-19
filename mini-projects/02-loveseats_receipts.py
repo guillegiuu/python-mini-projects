@@ -1,4 +1,5 @@
-# 🧾 Receipts for Lovely Loveseats
+# ====================================
+# Proyecto: Receipts for Lovely Loveseats
 # Descripción y precio de cada producto
 
 # ========================
