@@ -1,6 +1,6 @@
 # ====================================
 # Proyecto: Receipts for Lovely Loveseats
-# Descripción y precio de cada producto
+# Temas: variables, strings, operadores aritméticos, acumuladores, concatenación, impresión de resultados
 
 # ========================
 # 📦 CATÁLOGO DE PRODUCTOS
