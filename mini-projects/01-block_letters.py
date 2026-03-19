@@ -26,3 +26,27 @@ G     G
 G     G
  G G G
 """)
+
+
+# =========================================
+# Ejemplo de output esperado (ASCII Art)
+# =========================================
+#
+# Mis iniciales en ASCII art:
+#
+# G G G
+# G
+# G
+# G   GGG
+# G     G
+# G     G
+# G G G
+#
+# G G G
+# G
+# G
+# G   GGG
+# G     G
+# G     G
+# G G G
+
