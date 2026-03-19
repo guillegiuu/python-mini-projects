@@ -37,7 +37,7 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 - Concatenación de strings
 - Formato de salida
 
-🔗 [Ver código](./mini-projects/02-loveseats_receipts.py)
+🔗 [Ver proyecto](./mini-projects/loveseats-receipts/)
 
 ---
 
