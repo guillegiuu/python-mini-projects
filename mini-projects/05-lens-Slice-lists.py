@@ -112,3 +112,25 @@ three_cheapest = pizza_and_prices[:3]
 
 print("\nLas 3 pizzas más baratas son:")
 print(three_cheapest)
+
+# =========================================
+# Ejemplo de output esperado
+# =========================================
+#
+# Cantidad de slices de $2: 3
+# We sell 7 different kinds of pizza!
+#
+# Lista original:
+# [['pepperoni', 2], ['pineapple', 6], ['cheese', 1], ['sausage', 3], ['olives', 2], ['anchovies', 7], ['mushrooms', 2]]
+#
+# Lista ordenada por precio:
+# [['cheese', 1], ['pepperoni', 2], ['olives', 2], ['mushrooms', 2], ['sausage', 3], ['pineapple', 6], ['anchovies', 7]]
+#
+# Pizza más barata:
+# ['cheese', 1]
+#
+# Pizza más cara:
+# ['anchovies', 7]
+#
+# 3 pizzas más baratas:
+# [['cheese', 1], ['pepperoni', 2], ['olives', 2]]
