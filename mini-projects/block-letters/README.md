@@ -14,7 +14,7 @@ Proyecto simple en Python que imprime letras en formato ASCII.
 
 ## ▶️ Código
 
-👉 [Abrir proyecto](.)
+👉 [Ver código](./01-block_letters.py)
 
 ---
 
