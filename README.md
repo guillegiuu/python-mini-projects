@@ -1,6 +1,6 @@
 # 📁 Python Mini Projects
 
-Colección de proyectos desarrollados durante mi aprendizaje en Python (Codecademy path).
+Colección de proyectos desarrollados durante mi formación en Python (Codecademy).
 
 Estos proyectos están organizados por nivel de dificultad para reflejar mi progreso.
 
@@ -8,17 +8,9 @@ Estos proyectos están organizados por nivel de dificultad para reflejar mi prog
 
 ## 🧭 Navegación
 
-🏠 Volver al perfil principal:  
+🏠 [Volver al perfil principal](https://github.com/guillegiuu)
 
-👉 https://github.com/guillegiuu
-
----
-
-## 🧭 Learning Roadmap
-
-📚 Seguimiento completo de mi aprendizaje en Computer Science:
-
-👉 https://github.com/guillegiuu/from-zero-to-software-engineer
+📘 [From Zero to Software Engineer](https://github.com/guillegiuu/from-zero-to-software-engineer)
 
 ---
 
@@ -109,19 +101,13 @@ _(Próximamente...)_
 
 Aplicar conceptos de Python en proyectos prácticos y escalables, construyendo una base sólida para niveles más avanzados.
 
----
-
-## 🚀 Próximos proyectos
-
-- Magic 8 Ball 🎱  
-- Sal’s Shipping 🚚  
 
 ---
 
 ## 📌 Notas
 
-- Este repositorio forma parte de mi proceso de aprendizaje continuo.
-- Los proyectos irán evolucionando en complejidad con el tiempo.
+- Repositorio enfocado en práctica y aplicación de conceptos.
+- Los proyectos aumentan en complejidad a medida que avanzo.
 
 ---
 
