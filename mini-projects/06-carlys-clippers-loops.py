@@ -82,3 +82,17 @@ cuts_under_30 = [
 
 # Mostramos los cortes filtrados
 print("Cuts under $30:", cuts_under_30)
+
+# =========================================
+# Ejemplo de output esperado
+# =========================================
+#
+# Average Haircut Price: 31.875
+#
+# New Prices: [25, 20, 35, 15, 15, 30, 45, 30]
+#
+# Total Revenue: 1085
+#
+# Average Daily Revenue: 155.0
+#
+# Cuts under $30: ['pixie', 'crew', 'bowl']
