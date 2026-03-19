@@ -5,9 +5,7 @@
 Proyecto simple en Python que imprime letras en formato ASCII.
 
 ➡️ [Siguiente proyecto](../loveseats-receipts/README.md)
-
-🔙 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/mini-projects/README.md)  
-
+ 
 🏠 [Volver al README principal](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
