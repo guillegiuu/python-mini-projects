@@ -19,13 +19,8 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 
 ---
 
-## 🧪 Ejemplo de output
+## 🧠 Qué aprendí
 
-```text
-Customer One Items:
-Lovely Loveseat: $254.00
-Stylish Settee: $180.50
-
-Subtotal: $434.50
-Tax: $37.12
-Total: $471.62
+- Organizar cálculos paso a paso  
+- Generar outputs claros  
+- Usar variables para datos reales  
