@@ -1,5 +1,13 @@
 # 🧾 LoveSeats Receipts
 
+🟢 Nivel: Fácil
+
+🔙 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)  
+
+⬅️ [Proyecto anterior](../block-letters/README.md)
+
+---
+
 Simulación de un sistema de recibos con cálculo de impuestos.
 
 ---
