@@ -2,9 +2,10 @@
 
 🟢 Nivel: Fácil
 
+⬅️ [Proyecto anterior](../block-letters/README.md)
+
 🔙 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)  
 
-⬅️ [Proyecto anterior](../block-letters/README.md)
 
 ---
 
