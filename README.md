@@ -78,7 +78,7 @@ Análisis de precios y toppings de pizzas utilizando listas.
 - Métodos (`pop()`, `insert()`)
 - Manipulación de datos
 
-🔗 [Ver código](./mini-projects/05-lens-Slice-lists)
+🔗 [Ver código](./mini-projects/05-lens-Slice-lists.py)
 
 ---
 
@@ -97,7 +97,7 @@ Análisis de precios y servicios utilizando loops y listas.
 - Cálculo de promedio
 - Filtrado de datos
 
-🔗 [Ver código](./mini-projects/06-carlys_clippers_loops.py)
+🔗 [Ver código](./mini-projects/06-carlys-clippers-loops.py)
 
 ---
 
