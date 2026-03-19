@@ -1,7 +1,7 @@
 # ============================================
 # Proyecto: Len's Slice
 # Tema: Listas, listas bidimensionales, sort, pop, insert y slicing
-# ============================================
+
 
 # --------------------------------------------
 # 1) Lista con los toppings (ingredientes)
