@@ -25,6 +25,8 @@ Generador de letras en formato ASCII.
 - Strings multilínea
 - Formateo de texto
 
+🔗 [Ver código](./mini-projects/01-block_letters.py)
+
 ---
 
 ### 🔹 LoveSeats Receipts
@@ -35,6 +37,8 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 - Concatenación de strings
 - Formato de salida
 
+🔗 [Ver código](./mini-projects/02-loveseats_receipts.py)
+
 ---
 
 ### 🔮 Magic 8-Ball
@@ -43,6 +47,8 @@ Simulación de una bola mágica que responde preguntas usando control flow.
 - Condicionales (`if / elif / else`)
 - Números aleatorios (`random`)
 - Lógica de decisiones
+
+🔗 [Ver código](./mini-projects/03-magic_8_ball.py)
 
 ---
 
@@ -54,6 +60,8 @@ Organización de materias y calificaciones usando listas.
 - Indexación
 - Métodos (`append()`, `remove()`)
 - Manipulación de datos
+
+🔗 [Ver código](./mini-projects/04-gradebook.py)
   
 ---
 
@@ -69,6 +77,8 @@ Análisis de precios y toppings de pizzas utilizando listas.
 - Slicing (`[:3]`)
 - Métodos (`pop()`, `insert()`)
 - Manipulación de datos
+
+🔗 [Ver código](./mini-projects/05-lens-Slice-lists)
 
 ---
 
@@ -86,6 +96,8 @@ Análisis de precios y servicios utilizando loops y listas.
 - List comprehension
 - Cálculo de promedio
 - Filtrado de datos
+
+🔗 [Ver código](./mini-projects/06-carlys_clippers_loops.py)
 
 ---
 
