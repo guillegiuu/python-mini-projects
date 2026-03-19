@@ -1,5 +1,7 @@
-# Magic 8-Ball 🎱
-# Proyecto de Control Flow
+# =======================
+# Proyecto: Magic 8-Ball 🎱
+# Temas : variables, strings, control flow (if/elif/else), random numbers (random.randint), validación de inputs y console output
+
 
 # Simula una bola mágica que responde preguntas de forma aleatoria
 
