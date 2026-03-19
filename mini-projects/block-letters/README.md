@@ -17,20 +17,21 @@ Proyecto simple en Python que imprime letras en formato ASCII.
 👉 [Ver archivo original](../01-block_letters.py)
 
 ---
-
 ## 🧪 Ejemplo de output
 
+```
 GGGG
 G
-G GG
-G G
+G  GG
+G   G
 GGGG
 
 GGGG
 G
-G GG
-G G
+G  GG
+G   G
 GGGG
+```
 
 ---
 
