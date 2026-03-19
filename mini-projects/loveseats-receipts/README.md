@@ -8,10 +8,6 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)  
 
-
----
-
-
 ---
 
 ## 📌 Conceptos utilizados
@@ -27,6 +23,19 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 
 👉 [Ver código](./02-loveseats_receipts.py)
 
+---
+
+## 🧪 Ejemplo de output
+
+```text
+Customer One Items:
+Lovely Loveseat: $254.00
+Luxurious Lamp: $52.15
+
+Subtotal: $306.15
+Tax: $26.94
+Total: $333.09
+```
 ---
 
 ## 🧠 Qué aprendí
