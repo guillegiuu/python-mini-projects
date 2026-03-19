@@ -1,6 +1,12 @@
 # 🔤 Block Letters (ASCII Art)
 
+🟢 Nivel: Fácil
+
 Proyecto simple en Python que imprime letras en formato ASCII.
+
+🔙 [Volver al menú de proyectos](../README.md)
+
+➡️ [Siguiente proyecto](../loveseats-receipts/README.md)
 
 ---
 
