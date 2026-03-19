@@ -25,7 +25,7 @@ Generador de letras en formato ASCII.
 - Strings multilínea
 - Formateo de texto
 
-🔗 [Ver código](./mini-projects/01-block_letters.py)
+🔗 [Ver proyecto](./mini-projects/block-letters/)
 
 ---
 
