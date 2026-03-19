@@ -62,3 +62,15 @@ print(customer_one_itemization)
 
 print("Customer One Total:")
 print(customer_one_total)
+
+# =========================================
+# Ejemplo de output esperado
+# =========================================
+#
+# Customer One Items:
+# Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 60 inches wide x 30 inches deep. Red or white.
+# Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade.
+#
+# Customer One Total:
+# 332.56
+
