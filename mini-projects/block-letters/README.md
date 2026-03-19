@@ -4,7 +4,7 @@
 
 Proyecto simple en Python que imprime letras en formato ASCII.
 
-🔙 [Volver al menú de proyectos](../README.md)
+🔙 [Volver al menú de proyectos](/mini-projects/README.md)
 
 ➡️ [Siguiente proyecto](../loveseats-receipts/README.md)
 
