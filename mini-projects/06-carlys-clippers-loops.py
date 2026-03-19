@@ -1,7 +1,7 @@
 # =========================
 # Proyecto: Carly's Clippers
 # Tema: Loops, listas y manipulación de datos
-# =========================
+
 
 # Lista de cortes de pelo disponibles
 hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", "bowl", "bob", "mohawk", "flattop"]
