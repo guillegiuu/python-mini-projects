@@ -97,7 +97,7 @@ Análisis de precios y servicios utilizando loops y listas.
 - Cálculo de promedio
 - Filtrado de datos
 
-🔗 [Ver código](./mini-projects/06-carlys-clippers-loops.py)
+🔗 [Ver proyecto](./mini-projects/carlys-clippers/)
 
 ---
 
