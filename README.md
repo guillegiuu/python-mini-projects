@@ -61,7 +61,7 @@ Organización de materias y calificaciones usando listas.
 - Métodos (`append()`, `remove()`)
 - Manipulación de datos
 
-🔗 [Ver código](./mini-projects/04-gradebook.py)
+🔗 [Ver proyecto](./mini-projects/gradebook/)
   
 ---
 
