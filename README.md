@@ -4,6 +4,9 @@ Colección de proyectos desarrollados durante mi formación en Python (Codecadem
 
 Estos proyectos están organizados por nivel de dificultad para reflejar mi progreso.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
 ---
 
 ## 🧭 Navegación
