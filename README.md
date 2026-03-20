@@ -1,8 +1,8 @@
 # 📁 Python Mini Projects
 
-Colección de proyectos desarrollados durante mi formación en Python (Codecademy).
+Repositorio enfocado en práctica real y progresiva de Python desde fundamentos hasta lógica aplicada.
 
-Estos proyectos están organizados por nivel de dificultad para reflejar mi progreso.
+Proyectos organizados por nivel de dificultad para reflejar mi progreso durante el aprendizaje.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
