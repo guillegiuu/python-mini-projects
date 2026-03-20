@@ -22,7 +22,7 @@ Estos proyectos están organizados por nivel de dificultad para reflejar mi prog
 
 Proyectos enfocados en fundamentos de programación.
 
-### 🔹 Block Letters
+### 🔹 [Block Letters](./mini-projects/block-letters/)
 Generador de letras en formato ASCII.
 
 - Uso de `print()`
@@ -45,7 +45,7 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 
 ---
 
-### 🔮 Magic 8-Ball
+### 🔮 [Magic 8-Ball](./mini-projects/magic-8-ball/)
 Simulación de una bola mágica que responde preguntas usando control flow.
 
 - Condicionales (`if / elif / else`)
@@ -56,7 +56,7 @@ Simulación de una bola mágica que responde preguntas usando control flow.
 
 ---
 
-### 📘 Gradebook
+### 📘 [Gradebook](./mini-projects/gradebook/)
 Organización de materias y calificaciones usando listas.
 
 - Listas
@@ -69,7 +69,7 @@ Organización de materias y calificaciones usando listas.
   
 ---
 
-### 🍕 Len's Slice
+### 🍕 [Len's Slice](./mini-projects/lens-slice/)
 
 Análisis de precios y toppings de pizzas utilizando listas.
 
@@ -90,7 +90,7 @@ Análisis de precios y toppings de pizzas utilizando listas.
 
 Proyectos con lógica más compleja y uso de estructuras.
 
-### 💈 Carly's Clippers
+### 💈 [Carly's Clippers](./mini-projects/carlys-clippers/)
 
 Análisis de precios y servicios utilizando loops y listas.
 
