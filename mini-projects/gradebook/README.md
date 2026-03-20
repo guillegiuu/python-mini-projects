@@ -6,6 +6,8 @@ Organización de materias y calificaciones usando listas.
 
 ⬅️ [Proyecto anterior](../magic-8-ball/README.md)
 
+➡️ [Proyecto siguiente](../lens-slice/README.md)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
