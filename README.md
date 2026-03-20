@@ -2,7 +2,7 @@
 
 Repositorio enfocado en práctica real y progresiva de Python desde fundamentos hasta lógica aplicada.
 
-Proyectos organizados por nivel de dificultad para reflejar mi progreso durante el aprendizaje.
+Proyectos organizados por nivel de dificultad para reflejar mi progreso.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
