@@ -6,6 +6,7 @@ Estos proyectos están organizados por nivel de dificultad para reflejar mi prog
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Learning](https://img.shields.io/badge/project-learning-green)
 
 ---
 
