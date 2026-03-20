@@ -33,7 +33,7 @@ Generador de letras en formato ASCII.
 
 ---
 
-### 🔹 LoveSeats Receipts
+### 🧾 [LoveSeats Receipts](./mini-projects/loveseats-receipts/)
 Simulación de un sistema de recibos con cálculo de impuestos.
 
 - Variables
