@@ -6,6 +6,8 @@ Análisis de precios y toppings de pizzas utilizando listas.
 
 ⬅️ [Proyecto anterior](../gradebook/README.md)
 
+➡️ [Proyecto siguiente](../carlys-clippers/README.md)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
