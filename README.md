@@ -78,7 +78,7 @@ Análisis de precios y toppings de pizzas utilizando listas.
 - Métodos (`pop()`, `insert()`)
 - Manipulación de datos
 
-🔗 [Ver código](./mini-projects/05-lens-Slice-lists.py)
+🔗 [Ver proyecto](./mini-projects/lens-slice/)
 
 ---
 
