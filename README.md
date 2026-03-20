@@ -48,7 +48,7 @@ Simulación de una bola mágica que responde preguntas usando control flow.
 - Números aleatorios (`random`)
 - Lógica de decisiones
 
-🔗 [Ver código](./mini-projects/03-magic_8_ball.py)
+🔗 [Ver proyecto](./mini-projects/magic-8-ball/)
 
 ---
 
