@@ -29,7 +29,6 @@ Generador de letras en formato ASCII.
 - Strings multilínea
 - Formateo de texto
 
-🔗 [Ver proyecto](./mini-projects/block-letters/)
 
 ---
 
@@ -41,7 +40,6 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 - Concatenación de strings
 - Formato de salida
 
-🔗 [Ver proyecto](./mini-projects/loveseats-receipts/)
 
 ---
 
@@ -52,7 +50,6 @@ Simulación de una bola mágica que responde preguntas usando control flow.
 - Números aleatorios (`random`)
 - Lógica de decisiones
 
-🔗 [Ver proyecto](./mini-projects/magic-8-ball/)
 
 ---
 
@@ -65,7 +62,6 @@ Organización de materias y calificaciones usando listas.
 - Métodos (`append()`, `remove()`)
 - Manipulación de datos
 
-🔗 [Ver proyecto](./mini-projects/gradebook/)
   
 ---
 
@@ -82,7 +78,6 @@ Análisis de precios y toppings de pizzas utilizando listas.
 - Métodos (`pop()`, `insert()`)
 - Manipulación de datos
 
-🔗 [Ver proyecto](./mini-projects/lens-slice/)
 
 ---
 
@@ -101,7 +96,6 @@ Análisis de precios y servicios utilizando loops y listas.
 - Cálculo de promedio
 - Filtrado de datos
 
-🔗 [Ver proyecto](./mini-projects/carlys-clippers/)
 
 ---
 
