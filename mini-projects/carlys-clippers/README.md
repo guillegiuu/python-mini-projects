@@ -4,6 +4,8 @@
 
 Análisis de precios y servicios utilizando loops y listas.
 
+---
+
 ⬅️ [Proyecto anterior](../lens-slice/README.md)
 
 ➡️ [Proyecto siguiente](../physics-class/README.md)
