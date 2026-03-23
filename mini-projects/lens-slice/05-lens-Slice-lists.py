@@ -37,7 +37,7 @@ num_pizzas = len(toppings)
 # --------------------------------------------
 # 5) Mostrar ese dato en pantalla
 # --------------------------------------------
-print("We sell " + str(num_pizzas) + " different kinds of pizza!")
+print("Vendemos " + str(num_pizzas) + " tipos diferentes de pizza!")
 
 # ============================================
 # LISTA BIDIMENSIONAL
@@ -118,19 +118,19 @@ print(three_cheapest)
 # =========================================
 #
 # Cantidad de slices de $2: 3
-# We sell 7 different kinds of pizza!
+# Vendemos 7 tipos diferentes de pizza!
 #
 # Lista original:
-# [['pepperoni', 2], ['pineapple', 6], ['cheese', 1], ['sausage', 3], ['olives', 2], ['anchovies', 7], ['mushrooms', 2]]
+# [[2, 'pepperoni'], [6, 'pineapple'], [1, 'cheese'], [3, 'sausage'], [2, 'olives'], [7, 'anchovies'], [2, 'mushrooms']]
 #
 # Lista ordenada por precio:
-# [['cheese', 1], ['pepperoni', 2], ['olives', 2], ['mushrooms', 2], ['sausage', 3], ['pineapple', 6], ['anchovies', 7]]
+# [[1, 'cheese'], [2, 'mushrooms'], [2, 'olives'], [2, 'pepperoni'], [3, 'sausage'], [6, 'pineapple'], [7, 'anchovies']]
 #
 # Pizza más barata:
-# ['cheese', 1]
+# [1, 'cheese']
 #
 # Pizza más cara:
-# ['anchovies', 7]
+# [7, 'anchovies']
 #
-# 3 pizzas más baratas:
-# [['cheese', 1], ['pepperoni', 2], ['olives', 2]]
+# Las 3 pizzas más baratas son:
+# [[1, 'cheese'], [2, 'mushrooms'], [2, 'olives']]
