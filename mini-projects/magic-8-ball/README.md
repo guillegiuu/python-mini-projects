@@ -32,8 +32,8 @@ Simulación de una bola mágica que responde preguntas al azar.
 ## 🧪 Ejemplo de output
 
 ```text
-Guille asks: Will I finish Codecademy?
-Magic 8-Ball's answer: Yes - definitely
+Guille pregunta: ¿Voy a terminar Codecademy?
+Respuesta de la bola mágica: Sí, definitivamente
 ```
 
 ## 🧠 Qué aprendí
