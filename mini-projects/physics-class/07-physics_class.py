@@ -39,7 +39,7 @@ train_force = get_force(train_mass, train_acceleration)
 print(train_force)
 
 # Mostramos el resultado en una frase
-print(f"The GE train supplies {train_force} Newtons of force.")
+print(f"El tren GE genera {train_force} Newtons de fuerza.")
 
 
 # Calcula la energia
@@ -50,7 +50,7 @@ def get_energy(mass, c=3 * 10**8):
 
 # Energia de una bomba de 1 kg
 bomb_energy = get_energy(bomb_mass)
-print(f"A 1kg bomb supplies {bomb_energy} Joules.")
+print(f"Una bomba de 1kg libera {bomb_energy} Joules de energía.")
 
 
 # Calcula el trabajo
@@ -62,4 +62,12 @@ def get_work(mass, acceleration, distance):
 
 # Trabajo realizado por el tren
 train_work = get_work(train_mass, train_acceleration, train_distance)
-print(f"The GE train does {train_work} Joules of work over {train_distance} meters.")
+print(f"El tren GE realiza {train_work} Joules de trabajo en {train_distance} metros.")
+
+# =========================================
+# Ejemplo de output esperado
+# =========================================
+
+# El tren GE genera XXXX Newtons de fuerza.
+# Una bomba de 1kg libera XXXX Joules de energía.
+# El tren GE realiza XXXX Joules de trabajo en 100 metros.
