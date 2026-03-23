@@ -34,8 +34,8 @@ Análisis de precios y toppings de pizzas utilizando listas.
 ## 🧪 Ejemplo de output
 
 ```text
-We sell 7 different kinds of pizza!
-There are 3 pizzas that cost 2 dollars.
+Cantidad de slices de $2: 3
+Vendemos 7 tipos diferentes de pizza!
 ```
 ## 🧠 Qué aprendí
 
