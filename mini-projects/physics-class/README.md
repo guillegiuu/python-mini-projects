@@ -31,8 +31,12 @@ Aplicación de funciones en Python para resolver fórmulas básicas de física y
 ## 🧪 Ejemplo de output
 
 ```text
-100 grados Fahrenheit son 37.77777777777778 grados Celsius.
+Conversión de temperatura:
+100 grados Fahrenheit son 37.77 grados Celsius.
 0 grados Celsius son 32.0 grados Fahrenheit.
+
+Cálculos físicos:
+El tren GE genera XXXX Newtons de fuerza.
 ```
 
 ## 🧠 Qué aprendí
