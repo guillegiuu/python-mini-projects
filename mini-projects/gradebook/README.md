@@ -31,15 +31,11 @@ Organización de materias y calificaciones usando listas.
 ## 🧪 Ejemplo de output
 
 ```text
-Students:
-- Guille
-- Ana
-- Pedro
+Registro inicial de notas:
+[['physics', 98], ['calculus', 97], ['poetry', 85], ['history', 88]]
 
-Grades:
-- 9
-- 7
-- 10
+Registro completo de notas:
+[['politics', 80], ['latin', 96], ['dance', 97], ['architecture', 65], ['physics', 98], ['calculus', 97], ['poetry', 'Pass'], ['history', 88], ['computer science', 100], ['visual arts', 98]]
 ```
 
 ## 🧠 Qué aprendí
