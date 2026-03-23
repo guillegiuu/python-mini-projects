@@ -32,9 +32,9 @@ Análisis de precios y servicios utilizando loops y listas.
 ## 🧪 Ejemplo de output
 
 ```text
-Average Haircut Price: 31.875
-New Prices: [23, 19, 34, 9, 29]
-Total Revenue: 108
+Precio promedio de corte: 31.875
+Nuevos precios: [23, 19, 34, 9, 29]
+Recaudación total: 108
 ```
 
 ## 🧠 Qué aprendí
