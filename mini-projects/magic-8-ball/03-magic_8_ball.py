@@ -1,111 +1,72 @@
-# =======================
-# Proyecto: Magic 8-Ball 🎱
-# Temas : variables, strings, control flow (if/elif/else), random numbers (random.randint), validación de inputs y console output
+# ============================================
+# Proyecto: Magic 8 Ball
+# Tema: Variables, strings, control flow (if/elif/else),
+#       números aleatorios (random), validaciones y output
+# ============================================
 
-
-# Simula una bola mágica que responde preguntas de forma aleatoria
-
-
-# 📌 1. Importamos el módulo random
-# Esto nos permite generar números aleatorios
 import random
 
-
-# 📌 2. Variables principales
-
-# Nombre de la persona que hace la pregunta
+# 1. Variables principales
 name = "Guille"
-
-# Pregunta que queremos hacerle a la bola mágica
-question = "Will I finish Codecademy?"
-
-# Variable donde se va a guardar la respuesta final
+question = "¿Voy a terminar Codecademy?"
 answer = ""
 
-
-# 📌 3. Generamos un número aleatorio entre 1 y 12
-# Este número decide qué respuesta va a salir
+# 2. Número aleatorio (1 a 12)
 random_number = random.randint(1, 12)
 
-
-# 📌 4. Control Flow (if / elif / else)
-# Dependiendo del número, asignamos una respuesta distinta
-
+# 3. Respuestas posibles (control flow)
 if random_number == 1:
-    answer = "Yes - definitely"
-
+    answer = "Sí, definitivamente"
 elif random_number == 2:
-    answer = "It is decidedly so"
-
+    answer = "Es muy probable"
 elif random_number == 3:
-    answer = "Without a doubt"
-
+    answer = "Sin dudas"
 elif random_number == 4:
-    answer = "Reply hazy, try again"
-
+    answer = "Respuesta poco clara, intenta de nuevo"
 elif random_number == 5:
-    answer = "Ask again later"
-
+    answer = "Preguntá más tarde"
 elif random_number == 6:
-    answer = "Better not tell you now"
-
+    answer = "Mejor no decirte ahora"
 elif random_number == 7:
-    answer = "My sources say no"
-
+    answer = "Mis fuentes dicen que no"
 elif random_number == 8:
-    answer = "Outlook not so good"
-
+    answer = "No pinta bien"
 elif random_number == 9:
-    answer = "Very doubtful"
-
+    answer = "Muy dudoso"
 elif random_number == 10:
-    answer = "The stars are not aligned yet"
-
+    answer = "Los astros no están alineados"
 elif random_number == 11:
-    answer = "Ask yourself, you already know the answer"
-
+    answer = "Preguntate a vos mismo, ya sabés la respuesta"
 elif random_number == 12:
-    answer = "Luck will reveal itself soon"
-
+    answer = "La suerte se revelará pronto"
 else:
-    # Esto es por seguridad (no debería pasar nunca)
     answer = "Error"
 
-
 # ============================================
-# 📌 5. Validaciones (muy importante)
+# 4. Validaciones
 # ============================================
 
 # ❌ Si no hay pregunta
 if question == "":
-    print("⚠️ You forgot to ask a question!")
+    print("Te olvidaste de hacer una pregunta!")
 
 # ✅ Si hay pregunta
 else:
-
-    # 📌 Si hay nombre → mostramos quién pregunta
+    # Si hay nombre
     if name != "":
-        print(name + " asks: " + question)
-
-    # 📌 Si no hay nombre
+        print(f"{name} pregunta: {question}")
     else:
-        print("Question: " + question)
+        print(f"Pregunta: {question}")
 
-    # 📌 Mostramos la respuesta final
-    print("Magic 8-Ball's answer: " + answer)
+    # Mostramos la respuesta final
+    print(f"Respuesta de la bola mágica: {answer}")
 
-# Posibles respuestas incluyen:
-# - Yes - definitely
-# - Ask again later
-# - Outlook not so good
-# - Very doubtful
-    
-# =========================================
-# Ejemplo de output (resultado aleatorio)
-# =========================================
-#
-# Guille asks: Will I finish Codecademy?
-# Magic 8-Ball's answer: Yes - definitely
-#
+# ============================================
+# Ejemplo de output (puede variar)
+# ============================================
+
+# Guille pregunta: ¿Voy a terminar Codecademy?
+# Respuesta de la bola mágica: Sí, definitivamente
+
 # Nota:
-# La respuesta es aleatoria, por lo que puede variar en cada ejecución.
+# La respuesta es aleatoria, por lo que cambia en cada ejecución.
