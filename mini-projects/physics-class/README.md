@@ -12,7 +12,7 @@ Aplicación de funciones en Python para resolver fórmulas básicas de física y
 
 ---
 
-## ⚙️ Conceptos utilizados
+## 📌 Conceptos utilizados
 
 - Funciones (`def`)
 - Parámetros y `return`
