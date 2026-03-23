@@ -28,7 +28,7 @@ for price in prices:
 average_price = total_price / len(prices)
 
 # Mostramos el resultado
-print("Average Haircut Price:", average_price)
+print(f"Precio promedio de corte: {average_price}")
 
 
 # =========================
@@ -39,7 +39,7 @@ print("Average Haircut Price:", average_price)
 new_prices = [price - 5 for price in prices]
 
 # Mostramos los nuevos precios
-print("New Prices:", new_prices)
+print(f"Nuevos precios: {new_prices}")
 
 
 # =========================
@@ -55,7 +55,7 @@ for i in range(len(hairstyles)):
     total_revenue += prices[i] * last_week[i]
 
 # Mostramos la recaudación total
-print("Total Revenue:", total_revenue)
+print(f"Recaudación total: {total_revenue}")
 
 
 # =========================
@@ -66,7 +66,7 @@ print("Total Revenue:", total_revenue)
 average_daily_revenue = total_revenue / 7
 
 # Mostramos el resultado
-print("Average Daily Revenue:", average_daily_revenue)
+print(f"Promedio diario de ingresos: {average_daily_revenue}")
 
 
 # =========================
@@ -81,7 +81,7 @@ cuts_under_30 = [
 ]
 
 # Mostramos los cortes filtrados
-print("Cuts under $30:", cuts_under_30)
+print(f"Cortes menores a $30: {cuts_under_30}")
 
 # =========================================
 # Ejemplo de output esperado
