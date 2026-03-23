@@ -4,6 +4,8 @@
 
 Simulación de una bola mágica que responde preguntas al azar.
 
+---
+
 ⬅️ [Proyecto anterior](../loveseats-receipts/README.md)
 
 ➡️ [Proyecto siguiente](../gradebook/README.md)
