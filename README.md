@@ -96,6 +96,17 @@ Análisis de precios y servicios utilizando loops y listas.
 - Cálculo de promedio
 - Filtrado de datos
 
+---
+
+### ⚛️ [Getting Ready for Physics Class](./mini-projects/physics-class/)
+
+Aplicación de funciones en Python para resolver fórmulas básicas de física y conversiones de temperatura.
+
+- Funciones (`def`)
+- Parámetros y `return`
+- Operaciones matemáticas
+- Conversión de unidades
+- Organización de código
 
 ---
 
