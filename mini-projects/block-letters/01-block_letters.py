@@ -1,7 +1,7 @@
 # ================================
 # Proyecto: Block Letters
 # Descripción: Generador de letras en ASCII
-# ================================
+
 
 print("Mis iniciales en ASCII art:\n")
 
