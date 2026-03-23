@@ -6,6 +6,8 @@ Análisis de precios y servicios utilizando loops y listas.
 
 ⬅️ [Proyecto anterior](../lens-slice/README.md)
 
+➡️ [Proyecto siguiente](../physics-class/README.md)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
