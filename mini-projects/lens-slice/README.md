@@ -4,6 +4,8 @@
 
 Análisis de precios y toppings de pizzas utilizando listas.
 
+---
+
 ⬅️ [Proyecto anterior](../gradebook/README.md)
 
 ➡️ [Proyecto siguiente](../carlys-clippers/README.md)
