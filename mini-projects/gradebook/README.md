@@ -4,6 +4,8 @@
 
 Organización de materias y calificaciones usando listas.
 
+---
+
 ⬅️ [Proyecto anterior](../magic-8-ball/README.md)
 
 ➡️ [Proyecto siguiente](../lens-slice/README.md)
