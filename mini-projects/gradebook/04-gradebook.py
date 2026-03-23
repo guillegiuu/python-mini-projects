@@ -20,7 +20,7 @@ gradebook = [
 ]
 
 # 4) Mostrar el gradebook inicial
-print("Gradebook inicial:")
+print("Registro inicial de notas:")
 print(gradebook)
 print()
 
@@ -44,15 +44,15 @@ gradebook[2].append("Pass")
 full_gradebook = last_semester_gradebook + gradebook
 
 # Mostrar resultado final
-print("Gradebook completo:")
+print("Registro completo de notas:")
 print(full_gradebook)
 
 # =========================================
 # Ejemplo de output esperado
 # =========================================
 #
-# Gradebook inicial:
+# Registro inicial de notas:
 # [['physics', 98], ['calculus', 97], ['poetry', 85], ['history', 88]]
 #
-# Gradebook completo:
+# Registro completo de notas:
 # [['politics', 80], ['latin', 96], ['dance', 97], ['architecture', 65], ['physics', 98], ['calculus', 97], ['poetry', 'Pass'], ['history', 88], ['computer science', 100], ['visual arts', 98]]
