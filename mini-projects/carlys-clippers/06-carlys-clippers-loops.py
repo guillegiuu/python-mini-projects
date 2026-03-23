@@ -87,12 +87,12 @@ print(f"Cortes menores a $30: {cuts_under_30}")
 # Ejemplo de output esperado
 # =========================================
 #
-# Average Haircut Price: 31.875
+# Precio promedio de corte: 31.875
 #
-# New Prices: [25, 20, 35, 15, 15, 30, 45, 30]
+# Nuevos precios: [25, 20, 35, 15, 15, 30, 45, 30]
 #
-# Total Revenue: 1085
+# Recaudación total: 1085
 #
-# Average Daily Revenue: 155.0
+# Promedio diario de ingresos: 155.0
 #
-# Cuts under $30: ['pixie', 'crew', 'bowl']
+# Cortes menores a $30: ['pixie', 'crew', 'bowl']
