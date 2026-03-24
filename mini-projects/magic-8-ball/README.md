@@ -8,7 +8,7 @@ Simulación de una bola mágica que responde preguntas al azar.
 
 ⬅️ [Proyecto anterior](../loveseats-receipts/README.md)
 
-➡️ [Proyecto siguiente](../gradebook/README.md)
+➡️ [Proyecto siguiente](../shipping-cost/README.md)
 
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
