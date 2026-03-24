@@ -10,7 +10,7 @@ Programa en Python que calcula el costo de envío de un paquete usando distintos
 
 ➡️ [Proyecto siguiente](../gradebook/README.md)
 
-🏠 [Volver al menú de proyectos](../README.md)
+🏠 [Volver al menú de proyectos](../../README.md)
 
 ---
 
