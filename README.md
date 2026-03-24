@@ -85,6 +85,19 @@ Análisis de precios y toppings de pizzas utilizando listas.
 
 Proyectos con lógica más compleja y uso de estructuras.
 
+---
+
+### 🚚 [Sal's Shipping](./mini-projects/shipping-cost/)
+
+Cálculo de costos de envío utilizando múltiples condiciones y comparación de resultados.
+
+- Condicionales (`if`, `elif`, `else`)
+- Lógica de decisión
+- Comparación de valores
+- Operaciones matemáticas
+
+  ---
+
 ### 💈 [Carly's Clippers](./mini-projects/carlys-clippers/)
 
 Análisis de precios y servicios utilizando loops y listas.
