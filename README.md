@@ -78,6 +78,16 @@ Análisis de precios y toppings de pizzas utilizando listas.
 - Métodos (`pop()`, `insert()`)
 - Manipulación de datos
 
+---
+
+### 🖥️ [Bicycle World CLI](./mini-projects/bicycle-world-cli/)
+
+Primer contacto con la ejecución de programas Python desde la terminal (CLI).
+
+- Línea de comandos (CLI)
+- Navegación entre directorios
+- Ejecución de scripts `.py`
+- Entorno local de desarrollo
 
 ---
 
