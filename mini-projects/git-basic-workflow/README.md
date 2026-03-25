@@ -14,7 +14,7 @@ Proyecto introductorio enfocado en lectura de archivos con Python y organizació
 
 ## 📂 Proyectos incluidos
 
-### 🟢 01 - Snap Rob
+### 🟢 SnapFit Robots, Inc.
 
 Script que lee un archivo de texto con un disclaimer y lo muestra en consola.
 
@@ -22,7 +22,7 @@ Script que lee un archivo de texto con un disclaimer y lo muestra en consola.
 
 ---
 
-### 🟢 02 - Manhattan Zoo
+### 🟢 Manhattan Zoo
 
 Script que lee un archivo con dietas de animales y muestra la información formateada en consola.
 
