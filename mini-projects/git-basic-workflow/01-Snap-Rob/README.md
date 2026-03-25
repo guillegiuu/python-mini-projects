@@ -8,8 +8,8 @@ Simula un caso simple donde una aplicación necesita cargar información externa
 
 ## 📂 Archivos
 
-- `show_disclaimer.py` → script principal  
-- `disclaimer.txt` → archivo con el contenido a mostrar  
+- [`show_disclaimer.py`](./show_disclaimer.py) → script principal  
+- [`disclaimer.txt`](./disclaimer.txt) → archivo con el contenido a mostrar  
 
 ---
 
@@ -22,11 +22,12 @@ python show_disclaimer.py
 
 ## 🧪 Ejemplo de output
 
+```
 === DISCLAIMER ===
 
 This is a sample disclaimer.
 Use this program at your own risk.
-
+```
 ---
 
 ## 🧠 Qué aprendí
