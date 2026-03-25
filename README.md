@@ -17,6 +17,20 @@ Proyectos organizados por nivel de dificultad para reflejar mi progreso.
 📘 [From Zero to Software Engineer](https://github.com/guillegiuu/from-zero-to-software-engineer)
 
 ---
+
+## ⭐ Proyecto destacado
+
+#### 🧭 [The Boredless Tourist](./mini-projects/boredless-tourist)
+
+Sistema de recomendación en Python que sugiere destinos y actividades según los intereses del usuario.
+
+- Listas y listas anidadas  
+- Funciones  
+- Lógica condicional  
+- Relación entre datos  
+- Construcción de output dinámico  
+
+---
 ## Easy ![Level](https://img.shields.io/badge/Level-Easy-brightgreen)
 
 Proyectos enfocados en fundamentos de programación.
