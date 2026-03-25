@@ -167,6 +167,19 @@ Procesamiento de datos de ventas almacenados en un string desordenado, organizá
 
 ---
 
+### 🎲 [Scrabble Project](./mini-projects/scrabble_project/)
+
+Proyecto en Python que calcula el puntaje de palabras al estilo Scrabble utilizando diccionarios para mapear letras a valores.
+
+- Diccionarios (`dict`)
+- Iteración sobre diccionarios (`for`)
+- Acceso a claves y valores
+- Acumuladores
+- Funciones
+- Lógica de mapeo (letra → puntaje)
+
+---
+
 ## Hard ![Level](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
