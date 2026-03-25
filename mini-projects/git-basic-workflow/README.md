@@ -51,5 +51,3 @@ git-basic-workflow/
 - Organizar proyectos en carpetas separadas
 - Simular casos reales de uso (datos desde archivos)
 - Mantener código simple y entendible
-
-- 
