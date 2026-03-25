@@ -1,8 +1,14 @@
 # 🧠 Git Basic Workflow - Mini Projects
 
-Estos mini proyectos forman parte de mi aprendizaje práctico de Git y manejo de archivos en Python.
+🟢 Nivel: Fácil
 
-El objetivo es entender cómo interactuar con archivos, leer contenido y mostrar información en consola, simulando pequeños casos reales.
+Proyecto introductorio enfocado en lectura de archivos con Python y organización básica de proyectos, aplicando conceptos simples de Git y estructura de carpetas.
+
+---
+
+⬅️ [Proyecto anterior](../bicycle-world-cli)
+
+🏠 [Volver al menú de proyectos](../)
 
 ---
 
