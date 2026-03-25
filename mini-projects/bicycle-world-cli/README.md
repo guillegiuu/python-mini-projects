@@ -31,6 +31,7 @@ Proyecto introductorio enfocado en el uso de la terminal para ejecutar un archiv
 
 ```
 $ python 01-comand-line.py
+
 Hello from Bicycle World!
 ```
 ---
