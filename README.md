@@ -28,7 +28,6 @@ Generador de letras en formato ASCII.
 - Strings multilínea
 - Formateo de texto
 
-
 ---
 
 ### 🧾 [LoveSeats Receipts](./mini-projects/loveseats-receipts/)
@@ -39,7 +38,6 @@ Simulación de un sistema de recibos con cálculo de impuestos.
 - Concatenación de strings
 - Formato de salida
 
-
 ---
 
 ### 🔮 [Magic 8-Ball](./mini-projects/magic-8-ball/)
@@ -48,7 +46,6 @@ Simulación de una bola mágica que responde preguntas usando control flow.
 - Condicionales (`if / elif / else`)
 - Números aleatorios (`random`)
 - Lógica de decisiones
-
 
 ---
 
@@ -60,8 +57,7 @@ Organización de materias y calificaciones usando listas.
 - Indexación
 - Métodos (`append()`, `remove()`)
 - Manipulación de datos
-
-  
+ 
 ---
 
 ### 🍕 [Len's Slice](./mini-projects/lens-slice/)
@@ -87,6 +83,20 @@ Primer contacto con la ejecución de programas Python desde la terminal (CLI).
 - Navegación entre directorios
 - Ejecución de scripts `.py`
 - Entorno local de desarrollo
+
+---
+
+### 🧠 [Git Basic Workflow](./mini-projects/git-basic-workflow/)
+
+Práctica de lectura de archivos y organización de proyectos, simulando workflows reales.
+
+- SnapFit Robots → lectura básica de archivos  
+- Manhattan Zoo → datos estructurados en consola  
+
+- Lectura de archivos (`open`, `read`)
+- Manejo de strings
+- Organización en carpetas
+- Separación de lógica y datos
 
 ---
 
