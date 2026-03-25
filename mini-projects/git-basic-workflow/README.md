@@ -8,6 +8,8 @@ Proyecto introductorio enfocado en lectura de archivos con Python y organizació
 
 ⬅️ [Proyecto anterior](../bicycle-world-cli)
 
+➡️ [Proyecto siguiente](../boredless-tourist)
+
 🏠 [Volver al menú de proyectos](../)
 
 ---
