@@ -1,4 +1,4 @@
-# 🟢 Snap Rob - Disclaimer Reader
+# 🟢 SnapFit Robots, Inc.
 
 Este script lee un archivo de texto (`disclaimer.txt`) y muestra su contenido en consola.
 
