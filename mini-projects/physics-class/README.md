@@ -8,6 +8,8 @@ Aplicación de funciones en Python para resolver fórmulas básicas de física y
 
 ⬅️ [Proyecto anterior](../carlys-clippers/README.md)
 
+➡️ [Proyecto siguiente](../bicycle-world-cli/README.md)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
