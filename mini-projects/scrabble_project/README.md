@@ -4,6 +4,8 @@
 
 Proyecto en Python que calcula el puntaje de palabras al estilo Scrabble utilizando estructuras de datos como diccionarios. Permite mapear letras a valores y sumar puntos de forma eficiente.
 
+---
+
 ⬅️ [Proyecto anterior](../thread-shed/README.md)  
 
 
