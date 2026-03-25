@@ -8,7 +8,7 @@ Sistema de procesamiento de datos en Python que limpia y organiza información d
 
 ⬅️ [Proyecto anterior](../boredless-tourist) 
 
-🏠 [Volver al menú de proyectos](../)
+🏠 [Volver al menú de proyectos](../README.md)
 
 ---
 
