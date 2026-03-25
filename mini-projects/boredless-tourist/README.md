@@ -8,7 +8,8 @@ Sistema de recomendación desarrollado en Python que sugiere destinos y activida
 
 ⬅️ [Proyecto anterior](../git-basic-workflow/README.md)
 
-🏠 [Volver al menú de proyectos](../README.md)
+🏠 [Volver al menú de proyectos](../../README.md)
+
 
 ---
 
