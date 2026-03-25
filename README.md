@@ -17,8 +17,7 @@ Proyectos organizados por nivel de dificultad para reflejar mi progreso.
 📘 [From Zero to Software Engineer](https://github.com/guillegiuu/from-zero-to-software-engineer)
 
 ---
-
-## 🟢 Easy
+## Easy ![Level](https://img.shields.io/badge/Level-Easy-brightgreen)
 
 Proyectos enfocados en fundamentos de programación.
 
@@ -91,7 +90,7 @@ Primer contacto con la ejecución de programas Python desde la terminal (CLI).
 
 ---
 
-## 🟡 Medium
+## Medium ![Level](https://img.shields.io/badge/Level-Medium-yellow)
 
 Proyectos con lógica más compleja y uso de estructuras.
 
@@ -133,7 +132,7 @@ Aplicación de funciones en Python para resolver fórmulas básicas de física y
 
 ---
 
-## 🔴 Hard
+## Hard ![Level](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
 
