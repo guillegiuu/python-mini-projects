@@ -154,6 +154,19 @@ Aplicación de funciones en Python para resolver fórmulas básicas de física y
 
 ---
 
+### 🧵 [Thread Shed](./mini-projects/thread-shed/)
+
+Procesamiento de datos de ventas almacenados en un string desordenado, organizándolos en estructuras más limpias como listas.
+
+- Manipulación de strings
+- Métodos de strings (`.split()`, `.strip()`)
+- Listas
+- Loops (`for`)
+- Limpieza de datos
+- Procesamiento de información
+
+---
+
 ## Hard ![Level](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
