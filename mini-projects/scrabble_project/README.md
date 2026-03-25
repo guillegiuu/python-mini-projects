@@ -9,7 +9,9 @@ Proyecto en Python que calcula el puntaje de palabras al estilo Scrabble utiliza
 ## 🔗 Navegación
 
 ⬅️ [Proyecto anterior](../thread-shed/README.md)  
-🏠 [Volver al menú de proyectos](../README.md)
+
+
+🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
 
@@ -28,6 +30,24 @@ Proyecto en Python que calcula el puntaje de palabras al estilo Scrabble utiliza
 ## 💻 Código
 
 👉 [Ver código](./scrabble_project.py)
+
+---
+
+## 📤 Ejemplo de output
+
+```text
+Clientes:
+['Alice', 'Bob', 'Charlie']
+
+Montos:
+[54.99, 23.50, 99.99]
+
+Productos:
+['white thread', 'blue thread', 'red thread']
+
+Total de ventas:
+178.48
+```
 
 ---
 
