@@ -8,6 +8,8 @@ Proyecto introductorio enfocado en el uso de la terminal para ejecutar un archiv
 
 ⬅️ [Proyecto anterior](../physics-class/README.md)
 
+➡️ [Proyecto siguiente](../git-basic-workflow)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
