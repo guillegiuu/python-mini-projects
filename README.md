@@ -113,7 +113,7 @@ Cálculo de costos de envío utilizando múltiples condiciones y comparación de
 - Comparación de valores
 - Operaciones matemáticas
 
-  ---
+---
 
 ### 💈 [Carly's Clippers](./mini-projects/carlys-clippers/)
 
