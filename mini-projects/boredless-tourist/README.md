@@ -8,6 +8,8 @@ Sistema de recomendación desarrollado en Python que sugiere destinos y activida
 
 ⬅️ [Proyecto anterior](../git-basic-workflow/README.md)
 
+➡️ [Proyecto siguiente](../thread-shed)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 
