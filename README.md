@@ -94,8 +94,6 @@ Primer contacto con la ejecución de programas Python desde la terminal (CLI).
 
 Proyectos con lógica más compleja y uso de estructuras.
 
----
-
 ### 🚚 [Sal's Shipping](./mini-projects/shipping-cost/)
 
 Cálculo de costos de envío utilizando múltiples condiciones y comparación de resultados.
