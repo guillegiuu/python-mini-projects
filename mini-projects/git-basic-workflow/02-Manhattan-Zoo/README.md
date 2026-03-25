@@ -1,4 +1,4 @@
-# 🟢 Manhattan Zoo - Meal Regimens
+# 🟢 Manhattan Zoo
 
 Este script lee un archivo de texto (`meal-regimens.txt`) con las dietas de animales y muestra la información en consola.
 
