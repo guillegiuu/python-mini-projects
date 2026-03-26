@@ -18,7 +18,7 @@ Serie de mini proyectos enfocados en Programación Orientada a Objetos (OOP) en 
 
 Simulación simple de lanzamiento de moneda utilizando lógica básica y funciones.
 
-🔗 [Ver detalle](./01-cara-o-cruz-README.md)
+🔗 [Ver proyecto](./01-cara-o-cruz-README.md)
 
 ---
 
