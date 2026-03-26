@@ -18,6 +18,8 @@ Este proyecto permite entender cómo funcionan las estructuras LIFO y cómo se a
 
 ⬅️ [Proyecto anterior](../portfolio-project-py-terminal-game/README.md)
 
+⬅️ [Proyecto anterior](../portfolio-project-py-terminal-game/README.md)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
