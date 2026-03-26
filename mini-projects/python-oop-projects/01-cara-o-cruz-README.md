@@ -4,6 +4,8 @@
 
 Simulación simple de lanzamiento de moneda utilizando Programación Orientada a Objetos (OOP) en Python.
 
+➡️ [Proyecto siguiente](./02-casino-con-historial-README.md)
+
 🏠 [Volver al proyecto principal](./README.md)
 
 ---
