@@ -20,6 +20,17 @@ Proyectos organizados por nivel de dificultad para reflejar mi progreso.
 
 ## ⭐ Proyecto destacado
 
+#### 🎮 [Survival: The First Night](./mini-projects/portfolio-project-py-terminal-game)
+
+Juego interactivo en terminal donde el jugador toma decisiones para sobrevivir su primera noche.
+
+- Interacción con usuario (`input`)
+- Lógica condicional
+- Loop de juego (`while`)
+- Flujo completo tipo videojuego
+
+---
+
 #### 🧭 [The Boredless Tourist](./mini-projects/boredless-tourist)
 
 Sistema de recomendación en Python que sugiere destinos y actividades según los intereses del usuario.
