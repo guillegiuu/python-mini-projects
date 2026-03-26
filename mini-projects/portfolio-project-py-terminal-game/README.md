@@ -24,7 +24,7 @@ A lo largo de la partida, el usuario elige entre distintas acciones, recolecta r
 
 ---
 
-## 🕹️ Ejemplo de uso
+## 🧪 Ejemplo de output
 ```
 === SURVIVE THE FIRST NIGHT ===
 
