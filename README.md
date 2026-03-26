@@ -180,18 +180,26 @@ Proyecto en Python que calcula el puntaje de palabras al estilo Scrabble utiliza
 
 ---
 
-## Hard ![Level](https://img.shields.io/badge/Level-Hard-red)
+## 🔴 Hard ![Level-Hard](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
 
-_(Próximamente...)_
+### 🛠️ [Hacking The Fender](./mini-projects/hacking-the-fender/)
 
+Script en Python que simula la detección de usuarios comprometidos leyendo un archivo CSV y generando archivos de salida.
+
+- Manejo de archivos (`open`)
+- Lectura de CSV (`csv.DictReader`)
+- Escritura de archivos (`.txt`, `.json`)
+- Uso de listas para almacenar datos
+- Validación de claves en diccionarios
+- Módulo `os` para manipulación de archivos
+  
 ---
 
 ## 🧠 Objetivo
 
 Aplicar conceptos de Python en proyectos prácticos y escalables, construyendo una base sólida para niveles más avanzados.
-
 
 ---
 
