@@ -8,6 +8,8 @@ Serie de mini proyectos enfocados en Programación Orientada a Objetos (OOP) en 
 
 ⬅️ [Proyecto anterior](../hacking-the-fender/README.md)
 
+➡️ [Proyecto siguiente: Portfolio Project](../portfolio-project-py-terminal-game/README.md)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
