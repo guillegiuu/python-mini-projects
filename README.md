@@ -18,7 +18,7 @@ Proyectos organizados por nivel de dificultad para reflejar mi progreso.
 
 ---
 
-## ⭐ Proyecto destacado
+## ⭐ Proyectos destacados
 
 #### 🎮 [Survival: The First Night](./mini-projects/portfolio-project-py-terminal-game)
 
