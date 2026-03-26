@@ -4,7 +4,11 @@
 
 Extensión del juego de cara o cruz agregando gestión de apuestas y registro de resultados a lo largo del tiempo.
 
-⬅️ [Volver al proyecto principal](./README.md)
+⬅️ [Proyecto anterior](./01-cara-o-cruz-README.md)  
+
+➡️ [Proyecto siguiente](./03-casino-interactivo-README.md)  
+
+🏠 [Volver al proyecto principal](./README.md)
 
 ---
 
