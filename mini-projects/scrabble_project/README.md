@@ -8,6 +8,7 @@ Proyecto en Python que calcula el puntaje de palabras al estilo Scrabble utiliza
 
 ⬅️ [Proyecto anterior](../thread-shed/README.md)  
 
+➡️ [Proyecto siguiente](../hacking-the-fender/README.md)
 
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
