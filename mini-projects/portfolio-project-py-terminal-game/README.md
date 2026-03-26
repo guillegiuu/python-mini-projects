@@ -14,6 +14,8 @@ A lo largo de la partida, el usuario elige entre distintas acciones, recolecta r
 
 ⬅️ [Proyecto anterior](../python-oop-projects/README.md)  
 
+➡️ [Proyecto siguiente](../towers_of_hanoi/README.md)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
