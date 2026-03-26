@@ -18,7 +18,7 @@ Se incorpora un historial que permite almacenar cada jugada realizada, mostrando
 
 ## 💻 Código
 
-🔗 [Ver archivo principal](./02-casino-con-historial.py)
+🔗 [Ver código](./02-casino-con-historial.py)
 
 ---
 
