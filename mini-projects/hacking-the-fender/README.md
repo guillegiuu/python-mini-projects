@@ -6,7 +6,9 @@ Script que simula la detección de usuarios comprometidos leyendo un archivo CSV
 
 ---
 
-⬅️ [Proyecto anterior](../scrabble_project/README.md)  
+⬅️ [Proyecto anterior](../scrabble_project/README.md)
+
+➡️ [Proyecto siguiente](../python-oop-projects/README.md)
 
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
