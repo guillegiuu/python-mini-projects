@@ -11,7 +11,7 @@
 
 A lo largo de la partida, el usuario elige entre distintas acciones, recolecta recursos y enfrenta distintos resultados según sus decisiones.
 
-⬅️ [Proyecto anterior: Python OOP Projects](../python-oop-projects/README.md)  
+⬅️ [Proyecto anterior](../python-oop-projects/README.md)  
 
 🏠 [Volver al menú de proyectos](../README.md)
 
