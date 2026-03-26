@@ -28,7 +28,49 @@ Este proyecto permite entender cómo funcionan las estructuras LIFO y cómo se a
 
 ---
 
-## 🖥️ Ejemplo de output
+## 🧪 Ejemplo de output
+```
+¡Vamos a jugar Towers of Hanoi!
 
+¿Con cuántos discos querés jugar? 3
+
+La cantidad mínima de movimientos para resolverlo es: 7
+
+--- Estado actual de las torres ---
+Izquierda: [3, 2, 1]
+Medio: []
+Derecha: []
+
+Elegí una torre:
+Ingresá I para Izquierda
+Ingresá M para Medio
+Ingresá D para Derecha
+> I
+
+Elegí una torre:
+> D
+
+--- Estado actual de las torres ---
+Izquierda: [3, 2]
+Medio: []
+Derecha: [1]
+
+Elegí una torre:
+> I
+
+Elegí una torre:
+> M
+
+--- Estado actual de las torres ---
+Izquierda: [3]
+Medio: [2]
+Derecha: [1]
+
+...
+
+¡Felicitaciones! Resolviste el juego.
+Lo resolviste en 7 movimientos.
+La cantidad mínima posible era 7 movimientos.
+```
 
 
