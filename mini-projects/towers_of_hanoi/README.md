@@ -16,7 +16,7 @@ El objetivo es mover todos los discos desde la torre izquierda hasta la torre de
 
 Este proyecto permite entender cómo funcionan las estructuras LIFO y cómo se aplican en un caso real.
 
-⬅️ [Proyecto anterior](../python-terminal-game/README.md) 
+⬅️ [Proyecto anterior](../portfolio-project-py-terminal-game/README.md)
 
 🏠 [Volver al menú de proyectos](../README.md)
 
