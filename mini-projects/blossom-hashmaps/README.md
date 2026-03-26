@@ -6,7 +6,7 @@
 
 ## 📖 Descripción
 
-**Blossom HashMap** es una implementación de una estructura de datos tipo diccionario en Python, construida desde cero utilizando conceptos como hashing, almacenamiento de pares clave-valor y manejo de colisiones.
+**Blossom HashMap**  es una implementación de un diccionario en Python creada desde cero, utilizando hashing y manejo de colisiones.
 
 El objetivo del proyecto es entender cómo funcionan internamente los hashmaps, incluyendo:
 
@@ -28,3 +28,40 @@ Este proyecto permite comprender cómo funcionan estructuras fundamentales utili
 [Ver código](./blossom-hashmaps.py)
 
 ---
+
+## 🧪 Ejemplo de output
+```
+Cargando flores en el HashMap...
+
+Se agregó: rose → amor
+Se agregó: lily → pureza
+Se agregó: tulip → confianza
+
+PRUEBAS DE BÚSQUEDA
+
+Significado de 'rose': amor
+Significado de 'lily': pureza
+
+Buscando una flor que no existe...
+
+Significado de 'lavender': None
+
+Agregando nueva flor...
+
+Significado de 'lavender': calma
+
+Actualizando valor existente...
+
+Nuevo significado de 'rose': amor profundo
+```
+
+---
+
+## 🧠 Qué aprendí
+
+- Implementación de un HashMap desde cero usando estructuras de datos
+- Manejo de colisiones y comprensión del hashing en profundidad
+- Uso de pares clave-valor para almacenar y recuperar información
+- Aplicación de operaciones básicas: inserción, búsqueda y actualización
+- Entendimiento de cómo funcionan los diccionarios en Python internamente
+
