@@ -19,7 +19,7 @@ Este proyecto permite comprender cómo funcionan estructuras fundamentales utili
 
 ⬅️ [Proyecto anterior](../towers_of_hanoi/README.md)
 
-🏠 [Volver al menú de proyectos](../README.md)
+🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
 
