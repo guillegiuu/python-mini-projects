@@ -205,6 +205,19 @@ Serie de mini proyectos enfocados en Programación Orientada a Objetos (OOP), mo
 
 ---
 
+### 🗼 [Towers of Hanoi](./mini-projects/towers_of_hanoi/README.md)
+
+Implementación del clásico problema de Towers of Hanoi utilizando estructuras de datos como pilas (*stacks*) y nodos (*nodes*), con interacción en consola.
+
+- Estructura de datos: Stack (LIFO)
+- Implementación de Nodes (linked list)
+- Validación de reglas del juego
+- Lógica de movimientos entre torres
+- Interacción con el usuario en terminal (CLI)
+- Cálculo de movimientos mínimos (2^n - 1)
+  
+---
+
 ## 🔴 Hard ![Level-Hard](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
