@@ -218,6 +218,18 @@ Implementación del clásico problema de Towers of Hanoi utilizando estructuras 
   
 ---
 
+### 🌸 [Blossom HashMap](./mini-projects/blossom-hashmaps/README.md)
+
+Implementación de un HashMap desde cero en Python utilizando hashing, almacenamiento de pares clave-valor y manejo de colisiones.
+
+- Estructura de datos: HashMap (key-value)
+- Función hash para asignación de índices
+- Manejo de colisiones (collision handling)
+- Búsqueda, inserción y actualización de datos
+- Comprensión interna de diccionarios en Python
+
+---
+
 ## 🔴 Hard ![Level-Hard](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
