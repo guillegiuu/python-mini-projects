@@ -1,0 +1,61 @@
+PROYECTO: BLOSSOM HASHMAPS
+
+Este proyecto implementa un HashMap desde cero en Python.
+
+OBJETIVO:
+Guardar y buscar el significado de flores usando una estructura eficiente.
+
+----------------------------------------
+¿QUÉ HACE EL PROYECTO?
+----------------------------------------
+
+- Guarda pares clave → valor
+  Ejemplo: "rose" → "amor"
+
+- Permite buscar rápidamente un valor a partir de su clave
+
+- Maneja colisiones usando Linked Lists (separate chaining)
+
+----------------------------------------
+CONCEPTOS CLAVE
+----------------------------------------
+
+1. Hashing:
+Convierte una key (string) en un número.
+
+2. Compresión:
+Reduce ese número a un índice válido del array.
+
+3. Colisiones:
+Dos keys pueden caer en el mismo índice.
+
+4. Separate Chaining:
+Se usa una LinkedList para guardar múltiples valores en un mismo índice.
+
+----------------------------------------
+FUNCIONES PRINCIPALES
+----------------------------------------
+
+assign(key, value):
+- Inserta una nueva clave
+- Si ya existe, actualiza el valor
+
+retrieve(key):
+- Busca una clave
+- Devuelve el valor o None
+
+----------------------------------------
+¿QUÉ SE DEMUESTRA?
+----------------------------------------
+
+- Creación de estructuras de datos desde cero
+- Manejo de colisiones
+- Uso de Linked Lists
+- Diseño lógico de almacenamiento eficiente
+
+----------------------------------------
+CONCLUSIÓN
+----------------------------------------
+
+Este proyecto muestra cómo funciona internamente un HashMap,
+una de las estructuras más importantes en programación.
