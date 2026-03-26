@@ -1,1 +1,19 @@
+# Entornos virtuales
+venv/
+env/
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Archivos de entorno
+.env
+
+# VS Code
+.vscode/
+
+# Replit
+.replit
+
+# Sistema
+.DS_Store
