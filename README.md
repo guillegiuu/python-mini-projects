@@ -180,6 +180,20 @@ Proyecto en Python que calcula el puntaje de palabras al estilo Scrabble utiliza
 
 ---
 
+### 🎰 [OOP Mini Projects - Casino Simulation](./mini-projects/python-oop-projects/README.md)
+
+Serie de mini proyectos enfocados en Programación Orientada a Objetos (OOP), mostrando la evolución desde una lógica simple hasta una simulación interactiva completa.
+
+- Clases y objetos (`class`, `__init__`)
+- Atributos y métodos
+- Encapsulamiento de lógica
+- Manejo de estado (saldo, historial)
+- Validación de inputs
+- Simulación de sistemas interactivos
+- Uso de `random` para eventos aleatorios
+
+---
+
 ## 🔴 Hard ![Level-Hard](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
