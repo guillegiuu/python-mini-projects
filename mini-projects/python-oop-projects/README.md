@@ -26,7 +26,7 @@ Simulación simple de lanzamiento de moneda utilizando lógica básica y funcion
 
 Extensión del juego agregando seguimiento de apuestas y registro de resultados.
 
-🔗 [Ver proyecto](./02-casino-con-historial.py)
+🔗 [Ver proyecto](./02-casino-con-historial-README.md)
 
 ---
 
