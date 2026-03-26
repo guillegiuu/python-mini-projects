@@ -24,7 +24,7 @@ Este proyecto permite entender cómo funcionan las estructuras LIFO y cómo se a
 
 ## 💻 Ver código
 
-[Ver código](https://github.com/guillegiuu/python-mini-projects/blob/main/RUTA_A_TU_ARCHIVO/towers_of_hanoi.py)
+[Ver código](https://github.com/guillegiuu/python-mini-projects/blob/main/mini-projects/towers_of_hanoi/towers_of_hanoi.py)
 
 ---
 
