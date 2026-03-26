@@ -18,6 +18,12 @@ A lo largo de la partida, el usuario elige entre distintas acciones, recolecta r
 
 ---
 
+## 💻 Ver código
+
+[Ver código](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/portfolio-project-py-terminal-game)
+
+---
+
 ## ⚙️ Tecnologías utilizadas
 
 - Python 3
