@@ -35,7 +35,7 @@ Extensión del juego agregando seguimiento de apuestas y registro de resultados.
 Simulación completa aplicando clases, atributos y métodos.
 Incluye interacción con el usuario, validaciones y estructura orientada a objetos.
 
-🔗 [Ver proyecto](./03-casino-interactivo.py)
+🔗 [Ver proyecto](./03-casino-interactivo-README.md)
 
 ---
 
