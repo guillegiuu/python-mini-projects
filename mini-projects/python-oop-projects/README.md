@@ -6,7 +6,7 @@ Serie de mini proyectos enfocados en Programación Orientada a Objetos (OOP) en 
 
 ---
 
-⬅️ [Proyecto anterior](../hacking-the-fender)
+⬅️ [Proyecto anterior](../hacking-the-fender/README.md)
 
 🏠 [Volver al menú de proyectos](../README.md)
 
@@ -18,7 +18,7 @@ Serie de mini proyectos enfocados en Programación Orientada a Objetos (OOP) en 
 
 Simulación simple de lanzamiento de moneda utilizando lógica básica y funciones.
 
-🔗 Ver proyecto: `01-cara-o-cruz.py`
+🔗 [Ver proyecto](./01-cara-o-cruz.py)
 
 ---
 
@@ -26,7 +26,7 @@ Simulación simple de lanzamiento de moneda utilizando lógica básica y funcion
 
 Extensión del juego agregando seguimiento de apuestas y registro de resultados.
 
-🔗 Ver proyecto: `02-casino-con-historial.py`
+🔗 [Ver proyecto](./02-casino-con-historial.py)
 
 ---
 
@@ -35,7 +35,7 @@ Extensión del juego agregando seguimiento de apuestas y registro de resultados.
 Simulación completa aplicando clases, atributos y métodos.
 Incluye interacción con el usuario, validaciones y estructura orientada a objetos.
 
-🔗 Ver proyecto: `03-casino-interactivo.py`
+🔗 [Ver proyecto](./03-casino-interactivo.py)
 
 ---
 
