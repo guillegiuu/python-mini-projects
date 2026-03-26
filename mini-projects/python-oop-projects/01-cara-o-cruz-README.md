@@ -4,6 +4,8 @@
 
 Simulación simple de lanzamiento de moneda utilizando Programación Orientada a Objetos (OOP) en Python.
 
+🏠 [Volver al proyecto principal](./README.md)
+
 ---
 
 ## 🧠 Qué hace este proyecto
