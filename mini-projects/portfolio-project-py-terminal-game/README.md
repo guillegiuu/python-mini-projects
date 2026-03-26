@@ -24,6 +24,38 @@ A lo largo de la partida, el usuario elige entre distintas acciones, recolecta r
 
 ---
 
+## 🕹️ Ejemplo de uso
+```
+=== SURVIVE THE FIRST NIGHT ===
+
+Indicá tu gamertag: Guille
+
+¿Qué querés hacer primero?
+
+Cortar madera
+Explorar la zona
+Quedarte quieto
+
+Elegí una opción: 1
+
+Decidiste cortar madera...
+Construís un refugio básico...
+
+Sobreviviste a la noche!
+```
+---
+
+## 🚀 Cómo ejecutar el proyecto
+
+1. Clonar el repositorio o descargar el archivo
+2. Ejecutar en la terminal:
+
+```
+python python-terminal-game.py
+```
+
+---
+
 ## ⚙️ Tecnologías utilizadas
 
 - Python 3
@@ -51,43 +83,5 @@ A lo largo de la partida, el usuario elige entre distintas acciones, recolecta r
 - Con esos recursos, el juego determina si sobrevive o no  
 - El usuario puede volver a jugar al finalizar  
 
----
 
-## 📌 Qué aprendí
 
-- Cómo estructurar un proyecto completo desde cero  
-- Cómo manejar inputs del usuario en tiempo real  
-- Cómo conectar decisiones con resultados usando condicionales  
-- Cómo implementar loops para repetir un programa  
-- Cómo organizar el código en bloques claros y legibles  
-
----
-
-## 🚀 Cómo ejecutar el proyecto
-
-1. Clonar el repositorio o descargar el archivo
-2. Ejecutar en la terminal:
-
-```
-python python-terminal-game.py
-```
-
-## 🕹️ Ejemplo de uso
-```
-=== SURVIVE THE FIRST NIGHT ===
-
-Indicá tu gamertag: Guille
-
-¿Qué querés hacer primero?
-
-Cortar madera
-Explorar la zona
-Quedarte quieto
-
-Elegí una opción: 1
-
-Decidiste cortar madera...
-Construís un refugio básico...
-
-Sobreviviste a la noche!
-```
