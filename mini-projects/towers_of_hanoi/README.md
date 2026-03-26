@@ -72,5 +72,14 @@ Derecha: [1]
 Lo resolviste en 7 movimientos.
 La cantidad mínima posible era 7 movimientos.
 ```
+---
+
+## 🧠 Qué aprendí
+
+- Implementación de una pila (**Stack - LIFO**) usando nodos enlazados  
+- Manipulación de referencias entre objetos en estructuras dinámicas  
+- Aplicación práctica de estructuras de datos en un problema clásico  
+- Validación de reglas y control de errores en inputs del usuario  
+- Diseño de un flujo interactivo en terminal (CLI)  
 
 
