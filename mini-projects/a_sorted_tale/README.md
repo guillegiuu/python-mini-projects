@@ -42,6 +42,31 @@ En este proyecto se trabajan conceptos como:
 
 ---
 
+## 🧪 Ejemplo de output
+```
+# 📚 A Sorted Tale - Sorting Demo
+#
+# Títulos originales:
+# - Best Served Cold
+# - Dear Emily
+# - Gravity
+#
+# 🔹 Bubble Sort (ascendente):
+# - Best Served Cold
+# - Dear Emily
+# - Gravity
+#
+# Intercambios realizados: 2
+#
+# 🔹 Quick Sort (ascendente):
+# - Best Served Cold
+# - Dear Emily
+# - Gravity
+#
+# Resultado obtenido de forma más eficiente 🚀
+```
+---
+
 ## 🧠 Qué aprendí
 
 - Cómo funcionan los algoritmos de ordenamiento más importantes
