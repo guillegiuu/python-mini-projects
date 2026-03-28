@@ -242,6 +242,18 @@ Implementación de algoritmos de ordenamiento en Python para comprender su funci
 
 ---
 
+### 🧩 [Longest Common Subsequence (LCS)](./mini-projects/longest_common_subsequence/README.md)
+
+Implementación de programación dinámica para resolver el problema de la subsecuencia común más larga entre dos strings.
+
+- Dynamic Programming (Programación Dinámica)
+- Uso de matrices (grillas 2D)
+- Subproblemas y reutilización de resultados
+- Comparación de strings carácter por carácter
+- Optimización de algoritmos
+
+---
+
 ## 🔴 Hard ![Level-Hard](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
