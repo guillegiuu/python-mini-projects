@@ -19,7 +19,7 @@ En este proyecto se trabajan conceptos como:
 
 ---
 
-⬅️ [Proyecto anterior: Blossom HashMap](../blossom-hashmap/README.md) 
+⬅️ [Proyecto anterior: Blossom HashMap](../blossom-hashmaps/README.md) 
 
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
