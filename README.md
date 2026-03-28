@@ -230,6 +230,18 @@ Implementación de un HashMap desde cero en Python utilizando hashing, almacenam
 
 ---
 
+### 📚 [A Sorted Tale](./mini-projects/a_sorted_tale/README.md)
+
+Implementación de algoritmos de ordenamiento en Python para comprender su funcionamiento interno, eficiencia y diferencias entre enfoques.
+
+- Algoritmos: Bubble Sort, Merge Sort y Quick Sort  
+- Análisis de complejidad (Big-O)  
+- Enfoque Divide and Conquer  
+- Uso de recursión en sorting  
+- Comparación de rendimiento entre algoritmos  
+
+---
+
 ## 🔴 Hard ![Level-Hard](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
