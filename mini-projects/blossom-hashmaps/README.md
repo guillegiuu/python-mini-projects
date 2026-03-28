@@ -19,6 +19,8 @@ Este proyecto permite comprender cómo funcionan estructuras fundamentales utili
 
 ⬅️ [Proyecto anterior](../towers_of_hanoi/README.md)
 
+➡️ [Proyecto siguiente: A Sorted Tale](../a_sorted_tale/README.md) 
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 ---
