@@ -82,6 +82,24 @@ dna_2 = "CCAGCA"
 
 resultado_final = longest_common_subsequence(dna_1, dna_2)
 
+# -----------------------------
+# EJEMPLO DE OUTPUT
+# -----------------------------
+# Buscando la subsecuencia común más larga entre:
+# string_1 = ABCDEF
+# string_2 = AECDF
+
+# Grilla final de programación dinámica:
+# [0, 0, 0, 0, 0, 0, 0]
+# [0, 1, 1, 1, 1, 1, 1]
+# [0, 1, 1, 1, 1, 1, 1]
+# [0, 1, 1, 1, 2, 2, 2]
+# [0, 1, 1, 1, 2, 2, 2]
+# [0, 1, 2, 2, 2, 2, 2]
+# [0, 1, 2, 2, 2, 2, 3]
+
+# La longitud de la subsecuencia común más larga es: 3
+
 # ------------------------------------------------------------
 # NOTA FINAL
 # ------------------------------------------------------------
