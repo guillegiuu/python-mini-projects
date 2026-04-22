@@ -46,12 +46,12 @@ En este proyecto se trabajan conceptos como:
 
 ## 🧪 Ejemplo de output
 ```
-# Buscando la subsecuencia común más larga entre:
-# string_1 = ABCDEF
-# string_2 = AECDF
+ Buscando la subsecuencia común más larga entre:
+ string_1 = ABCDEF
+ string_2 = AECDF
 
-# Resultado:
-# Longitud de la LCS = 3
+ Resultado:
+ Longitud de la LCS = 3
 ```
 
 ----
