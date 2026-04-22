@@ -22,6 +22,8 @@ En este proyecto se trabajan conceptos como:
 
 ⬅️ [Proyecto anterior](../a_sorted_tale/README.md)  
 
+➡️ [Proyecto siguiente](../Wilderness_Escape_Trees/README.md)
+
 🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)  
 
 ---
