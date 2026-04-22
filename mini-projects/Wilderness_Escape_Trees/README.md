@@ -43,6 +43,26 @@ En este proyecto se trabajan conceptos como:
 
 ---
 
+## 🧪 Ejemplo de output
+```
+# Estás en medio del bosque oscuro...
+#
+# 1) Ir hacia la izquierda
+# 2) Ir hacia la derecha
+#
+# Elegí una opción: 1
+#
+# Te encontrás con un río...
+#
+# 1) Cruzarlo
+# 2) Seguir el camino
+#
+# Elegí una opción: 2
+#
+# Lograste salir del bosque. ¡Ganaste!
+```
+---
+
 ## 🧠 Qué aprendí
 
 - Cómo modelar una historia usando árboles
