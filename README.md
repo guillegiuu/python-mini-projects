@@ -254,6 +254,18 @@ Implementación de programación dinámica para resolver el problema de la subse
 
 ---
 
+### 🌲 [Wilderness Escape (Trees)](./mini-projects/Wilderness_Escape_Trees/README.md)
+
+Historia interactiva estilo *Choose Your Own Adventure* utilizando estructuras de datos tipo árbol (Tree).
+
+- Trees (Estructura de Árbol)
+- Nodos y relaciones padre-hijo
+- Navegación entre decisiones
+- Modelado de caminos posibles
+- Lógica interactiva
+
+---
+
 ## 🔴 Hard ![Level-Hard](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
