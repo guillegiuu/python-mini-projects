@@ -35,7 +35,9 @@ Este proyecto simula cómo un sistema real de transporte podría calcular rutas 
 Un grafo representa conexiones entre elementos:
 
 A --- B --- C
+
 ||
+
 D --- E
 
 ----
