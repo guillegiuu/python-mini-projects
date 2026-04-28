@@ -15,6 +15,12 @@ El objetivo principal es encontrar caminos entre distintos puntos utilizando alg
 
 Este proyecto simula cómo un sistema real de transporte podría calcular rutas entre estaciones.
 
+
+⬅️ [Proyecto anterior](../Wilderness_Escape_Trees/README.md)
+
+🏠 [Volver al menú de proyectos](https://github.com/guillegiui/python-mini-projects/blob/main/README.md)
+
+
 ---
 
 ## 🧠 Conceptos utilizados
@@ -70,6 +76,26 @@ En este proyecto:
 
 ---
 
+## 🧪 Ejemplo de output
+```
+ =============================
+ EJEMPLO DE OUTPUT
+ =============================
+
+ Starting point: Vancouver Aquarium
+ Destination: Central Station
+
+ Calculating route...
+
+ Ruta encontrada:
+ Vancouver Aquarium -> Burrard -> Granville -> Stadium-Chinatown -> Central Station
+
+ (El camino puede variar dependiendo del grafo)
+
+```
+
+---
+
 ## 🧠 Qué aprendí
 
 - Cómo representar problemas reales con grafos  
@@ -77,4 +103,5 @@ En este proyecto:
 - Cómo encontrar rutas en estructuras complejas  
 - Cómo usar diccionarios como grafos en Python  
 - Cómo pensar en términos de nodos y conexiones
+
 
