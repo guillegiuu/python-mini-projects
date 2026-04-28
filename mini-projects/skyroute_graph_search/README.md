@@ -18,7 +18,7 @@ Este proyecto simula cómo un sistema real de transporte podría calcular rutas 
 
 ⬅️ [Proyecto anterior](../Wilderness_Escape_Trees/README.md)
 
-🏠 [Volver al menú de proyectos](https://github.com/guillegiui/python-mini-projects/blob/main/README.md)
+🏠 [Volver al menú de proyectos](https://github.com/guillegiuu/python-mini-projects/blob/main/README.md)
 
 
 ---
