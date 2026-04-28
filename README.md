@@ -266,6 +266,18 @@ Historia interactiva estilo *Choose Your Own Adventure* utilizando estructuras d
 
 ---
 
+### 🚇 [SkyRoute (Graphs)](./mini-projects/skyroute_graph_search/README.md)
+
+Sistema de rutas entre estaciones utilizando grafos y algoritmos de búsqueda.
+
+- BFS (Breadth-First Search)
+- DFS (Depth-First Search)
+- Representación de grafos con diccionarios
+- Búsqueda de caminos
+- Lógica de rutas
+
+---
+
 ## 🔴 Hard ![Level-Hard](https://img.shields.io/badge/Level-Hard-red)
 
 Proyectos orientados a algoritmos y resolución de problemas más avanzados.
