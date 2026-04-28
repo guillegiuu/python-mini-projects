@@ -40,8 +40,6 @@ A --- B --- C
 
 D --- E
 
-----
-
 En este proyecto:
 
 - Cada nodo = una estación  
